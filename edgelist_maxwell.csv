@@ -1,0 +1,11 @@
+from,to,layer,weight
+AS,MAX,broad,5
+LAW,MAX,broad,3
+FALK,MAX,broad,2
+MAX,NEW,broad,2
+MAX,PROF,broad,2
+AS,MAX,courtesy,4
+FALK,MAX,courtesy,2
+ISCH,MAX,courtesy,1
+LAW,MAX,courtesy,1
+MAX,NEW,courtesy,1

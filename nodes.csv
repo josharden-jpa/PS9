@@ -1,0 +1,14 @@
+id,label,full_name,note
+ARCH,Architecture,School of Architecture,"Two links, both with Arts & Sciences: a cross-listed course code and the Architecture catalog pointing students to A&S for the history of architecture major or minor"
+AS,Arts & Sciences,College of Arts and Sciences,Largest hub after Maxwell; ties are mostly to Maxwell and Newhouse
+EDU,Education,School of Education,One project-level tie (Newhouse co-venture); no named Education person
+ECS,Engineering,College of Engineering and Computer Science,Appears only as a member of the Institute for Security Policy and Law; no person-level tie found
+FALK,Falk,Falk College of Sport,Ties to Maxwell (courtesy and second titles) and one cross-listed course with Arts & Sciences
+ISCH,iSchool,School of Information Studies,One courtesy tie to Maxwell; one project tie to Arts & Sciences
+LAW,Law,College of Law,Ties to Maxwell; member of three centers with Maxwell and Newhouse
+WHIT,Whitman,Martin J. Whitman School of Management,No confirmed ties; one unverified pilot candidate (see pilot_candidates.csv)
+MAX,Maxwell,Maxwell School of Citizenship and Public Affairs,Directory searched systematically; hub shape is partly an artifact of searching it first
+NEW,Newhouse,S.I. Newhouse School of Public Communications,"Host of the Goldring program; ties to Maxwell, Arts & Sciences, VPA, Education"
+VPA,VPA,College of Visual and Performing Arts,Two advising ties to Newhouse (Drama and School of Design are VPA units)
+GRAD,Grad School,Graduate School,No ties found; administrative unit that may have no faculty of its own
+PROF,Prof. Studies,College of Professional Studies,Ties are administrative roles held by Maxwell faculty
